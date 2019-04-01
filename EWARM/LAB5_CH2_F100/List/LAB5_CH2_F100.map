@@ -1,46 +1,46 @@
 ###############################################################################
 #
-# IAR ELF Linker V8.32.2.178/W32 for ARM                  31/Mar/2019  19:34:20
+# IAR ELF Linker V8.32.2.178/W32 for ARM                  01/Apr/2019  10:12:09
 # Copyright 2007-2018 IAR Systems AB.
 #
 #    Output file  =  
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Exe\LAB5_CH2_F100.out
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Exe\LAB5_CH2_F100.out
 #    Map file     =  
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\List\LAB5_CH2_F100.map
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\List\LAB5_CH2_F100.map
 #    Command line =  
-#        -f C:\Users\Morozov\AppData\Local\Temp\EWEE9F.tmp
-#        (C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\main.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\startup_stm32f100xb.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_cortex.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_dma.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_flash.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_flash_ex.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_gpio.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_gpio_ex.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_msp.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_pwr.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rcc.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rcc_ex.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rtc.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rtc_ex.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_tim.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_tim_ex.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_it.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_dma.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_exti.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_gpio.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_rcc.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_tim.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_utils.o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\system_stm32f1xx.o
+#        -f C:\Users\Morozov\AppData\Local\Temp\EW582.tmp
+#        (C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\main.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\startup_stm32f100xb.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_cortex.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_dma.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_flash.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_flash_ex.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_gpio.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_gpio_ex.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_msp.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_pwr.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rcc.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rcc_ex.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rtc.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_rtc_ex.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_tim.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_hal_tim_ex.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_it.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_dma.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_exti.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_gpio.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_rcc.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_tim.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\stm32f1xx_ll_utils.o
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj\system_stm32f1xx.o
 #        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull
 #        --no_out_extension -o
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Exe\LAB5_CH2_F100.out
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Exe\LAB5_CH2_F100.out
 #        --map
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\List\LAB5_CH2_F100.map
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\List\LAB5_CH2_F100.map
 #        --config
-#        C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM/stm32f100xb_flash.icf
+#        C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM/stm32f100xb_flash.icf
 #        --semihosting --entry __iar_program_start --vfe --text_out locale)
 #
 ###############################################################################
@@ -211,7 +211,7 @@ command line/config:
     -------------------------------------------------
     Total:
 
-C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj: [1]
+C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj: [1]
     main.o                      640                84
     startup_stm32f100xb.o       456
     stm32f1xx_hal.o             114       12       12
@@ -355,7 +355,7 @@ uwTickPrio              0x2000'0008    0x4  Data  Gb  stm32f1xx_hal.o [1]
 work                    0x2000'0064    0x4  Data  Gb  stm32f1xx_it.o [1]
 
 
-[1] = C:\Users\Morozov\Documents\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj
+[1] = C:\Users\Morozov\Documents\GitHub\LAB5_CH2_F100\EWARM\LAB5_CH2_F100\Obj
 [2] = dl7M_tlf.a
 [3] = rt7M_tl.a
 [4] = shb_l.a
